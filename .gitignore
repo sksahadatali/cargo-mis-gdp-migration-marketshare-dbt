@@ -1,0 +1,5 @@
+echo "venv/" >> .gitignore
+echo "dbt_modules/" >> .gitignore
+echo "target/" >> .gitignore
+echo "*.log" >> .gitignore
+echo "Backup" >> .gitignore
